@@ -27,3 +27,6 @@ To track my growth, share my journey, and prove what I’m learning. Feel free t
 
 > "Every expert was once a beginner. Let’s hack the planet 🌍"# Linux-python-journal
 My notes, scripts, and progress while learning ethical hacking with TryHackMe, Python, and Linux
+## 🌐 TryHackMe Profile
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Vessel87.png)](https://tryhackme.com/p/Vessel87)
